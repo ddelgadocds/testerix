@@ -1,4 +1,3 @@
 # testerix
-Template project to test whatever we want
 
-Testing integration with Heroku
+a [Sails](http://sailsjs.org) application
